@@ -1,0 +1,3 @@
+## Added Tailwind cdn in head tag in html (<script src="https://cdn.tailwindcss.com"></script>)
+
+## Added the background class to create different shades of background colors (.bg-green-200) 
