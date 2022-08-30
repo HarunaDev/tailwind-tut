@@ -1,0 +1,7 @@
+## Added Tailwind cdn in head tag in html (<script src="https://cdn.tailwindcss.com"></script>)
+
+## Added the background class to create different shades of background colors (.bg-green-200) 
+
+## Added width and height to elements using the width and height class, tailwind has a particular numbering system to take note of (w-32 h-32)
+
+## Added margin and padding classes to add margin & padding to elements, it also follows the same numbering system with width & height. (p-4, m-4, px-4, my-4, ml-4, pb-4)
